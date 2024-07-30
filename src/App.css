@@ -168,6 +168,11 @@ footer {
   margin: 20px 40px;
 }
 
+.about-me{
+  margin: 20px 60px;
+  
+}
+
 
 /* Media queries */
 @media screen and (min-width: 780px) {
